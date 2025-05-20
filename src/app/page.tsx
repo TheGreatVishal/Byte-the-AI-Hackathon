@@ -16,13 +16,24 @@ export default function HomePage() {
 
       <div className="relative z-10">
         <HeroSection />
-        <AboutSection />
-        <TracksSection />
-        <ScheduleSection />
-        <OrganizingCommittee />
-        <RegistrationSection />
+        <section id="about">
+          <AboutSection />
+        </section>
+        <section id="tracks">
+          <TracksSection />
+        </section>
+        <section id="schedule">
+          <ScheduleSection />
+        </section>
+        <section id="committee">
+          <OrganizingCommittee />
+        </section>
+        <section id="register">
+          <RegistrationSection />
+        </section>
         <Footer />
       </div>
+
     </main>
   )
 }
