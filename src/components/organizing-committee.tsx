@@ -24,7 +24,7 @@ export function OrganizingCommittee() {
     },
     {
       role: "Student Leads",
-      name: "[Names to be announced]",
+      name: "Vishal",
       position: "",
     },
   ]
