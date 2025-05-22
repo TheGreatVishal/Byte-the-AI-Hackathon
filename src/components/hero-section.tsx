@@ -28,7 +28,7 @@ export function HeroSection() {
         <div className="mb-4 flex justify-center">
           <div className="px-4 py-1 bg-white/10 backdrop-blur-sm rounded-full text-sm font-medium text-cyan-300 inline-flex items-center">
             <Cpu className="w-15 h-15 mr-2" />
-            <span>Engineers Day Special • Sept 13-15, 2025</span>
+            <span>Engineers Day Special • Sept 14-15, 2025</span>
           </div>
         </div>
 
