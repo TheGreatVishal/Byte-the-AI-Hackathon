@@ -15,12 +15,15 @@ export function Footer() {
                 height={60}
                 className="rounded-full bg-white p-1"
               />
-              <span className="font-bold text-lg">Byte the AI Hackathon</span>
+              <span className="font-bold text-lg"> Department of Computer Science and Engineering </span>
             </div>
-            <p className="text-gray-400 mb-4">
-              Central University of Rajasthan&rsquo;s premier AI hackathon celebrating Engineers Day.
-            </p>
-            <div className="flex space-x-4">
+             <div className="flex items-center gap-2 mb-4">
+               School of Engineering and Technology
+              </div> 
+             <div className="flex items-center gap-2 mb-4">
+               Central University of Rajasthan, Ajmer (Raj)
+              </div> 
+               <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-cyan-400 transition-colors">
                 <Facebook className="w-5 h-5" />
               </a>
