@@ -34,10 +34,7 @@ export function AboutSection() {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About The Hackathon</h2>
           <div className="w-20 h-1 bg-gradient-to-r from-cyan-500 to-purple-500 mx-auto mb-6"></div>
           <p className="text-gray-300 max-w-3xl mx-auto">
-            Byte the AI Hackathon is Central University of Rajasthan&rsquo;s flagship event
-            celebrating Engineers Day. This
-            48-hour coding marathon brings together the brightest minds to solve complex problems using artificial
-            intelligence and machine learning technologies.
+            Byte the AI Hackathon is an electrifying 8-hour AI-themed Hackathon on the occasion of Engineers’ Day this September 14-15, 2025. This event is your gateway to turn ideas into impact through the power of Artificial Intelligence.           intelligence and machine learning technologies.
           </p>
         </div>
 
