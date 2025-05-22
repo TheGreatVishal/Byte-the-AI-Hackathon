@@ -17,10 +17,10 @@ export function Footer() {
               />
               <span className="font-bold text-lg"> Department of Computer Science and Engineering </span>
             </div>
-             <div className="flex items-center gap-2 mb-4">
+             <div className="font-bold text-lg">
                School of Engineering and Technology
               </div> 
-             <div className="flex items-center gap-2 mb-4">
+             <div className="font-bold text-lg">
                Central University of Rajasthan, Ajmer (Raj)
               </div> 
                <div className="flex space-x-4">
