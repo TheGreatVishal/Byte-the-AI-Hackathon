@@ -30,7 +30,7 @@ export function Navbar() {
         </div>
         <div className="text-white font-extrabold text-lg md:text-2xl tracking-wide flex items-center gap-1">
           <Sparkles className="w-5 h-5 text-yellow-400 animate-pulse" />
-          CUR Hackathon
+          CURAJ Byte-the-AI Hackathon
         </div>
       </div>
 
